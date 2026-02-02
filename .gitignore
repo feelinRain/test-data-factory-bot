@@ -1,0 +1,19 @@
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+.env
+config.py  # Важно: не загружаем файл с токеном!
+.DS_Store
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+.coverage
+htmlcov/
+.pytest_cache/
+test.db

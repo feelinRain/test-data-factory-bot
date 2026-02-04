@@ -6,7 +6,7 @@ __pycache__/
 .Python
 env/
 .env
-config.py  # Важно: не загружаем файл с токеном!
+config.py  
 .DS_Store
 .idea/
 .vscode/

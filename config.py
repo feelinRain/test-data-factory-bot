@@ -1,1 +1,1 @@
-BOT_TOKEN = "YOUR_TELEGRAM_BOT_TOKEN"  # Замените на свой токен
+BOT_TOKEN = "ВАШ_ТОКЕН_БОТА"  # Замените на свой токен

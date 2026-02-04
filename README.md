@@ -105,12 +105,13 @@
     ```
 
 4.  **Настройте бота**
-    Отредактируйте `config.py`, добавив ваш токен:
+
+     Отредактируйте `config.py`, добавив ваш токен:
     ```python
     BOT_TOKEN = "ВАШ_ТОКЕН_БОТА"
     ```
 
-5.  **Запустите бота**
+6.  **Запустите бота**
     ```bash
     python bot.py
     ```
@@ -250,7 +251,9 @@ Automation: Генератор можно импортировать как мо
 
 - pytest за фреймворк тестирования
 
-## Контакты: @feelinRain
+## Контакты: 
+
+@feelinRain
 
 Project Link: https://github.com/feelinRain/test-data-factory-bot
 
